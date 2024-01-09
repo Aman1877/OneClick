@@ -1,0 +1,14 @@
+.similar-product {
+    display: flex;
+}
+
+.similar-product .card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-right: 5px;
+    width: 100%;
+}
+
+.produc-icon {
+    padding: 7px;
+    width: 100%;
+}

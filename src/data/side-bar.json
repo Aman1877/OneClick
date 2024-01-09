@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Agriculture",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTweXD9Db8sjX6Z06JGDD5B9POe4Qe9WhczrU4ytzXKaQ&s"
+    },
+    {
+        "name": "Apparel",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTweXD9Db8sjX6Z06JGDD5B9POe4Qe9WhczrU4ytzXKaQ&s"
+    },
+    {
+        "name": "Automobiles & Two wheelers",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTweXD9Db8sjX6Z06JGDD5B9POe4Qe9WhczrU4ytzXKaQ&s"
+    },
+    {
+        "name": "Baby care",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTweXD9Db8sjX6Z06JGDD5B9POe4Qe9WhczrU4ytzXKaQ&s"
+    },
+    {
+        "name": "Beauty & Personal care",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTweXD9Db8sjX6Z06JGDD5B9POe4Qe9WhczrU4ytzXKaQ&s"
+    },
+    {
+        "name": "Book",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTweXD9Db8sjX6Z06JGDD5B9POe4Qe9WhczrU4ytzXKaQ&s"
+    },
+    {
+        "name": "Chemicals",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTweXD9Db8sjX6Z06JGDD5B9POe4Qe9WhczrU4ytzXKaQ&s"
+    },
+    {
+        "name": "Construction & Real estate",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTweXD9Db8sjX6Z06JGDD5B9POe4Qe9WhczrU4ytzXKaQ&s"
+    },
+    {
+        "name": "Electrical equipement & supplies",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTweXD9Db8sjX6Z06JGDD5B9POe4Qe9WhczrU4ytzXKaQ&s"
+    },
+    {
+        "name": "Electronics",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTweXD9Db8sjX6Z06JGDD5B9POe4Qe9WhczrU4ytzXKaQ&s"
+    },
+    {
+        "name": "Energy",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTweXD9Db8sjX6Z06JGDD5B9POe4Qe9WhczrU4ytzXKaQ&s"
+    }
+]

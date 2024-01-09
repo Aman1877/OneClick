@@ -1,0 +1,81 @@
+.container-1 {
+    display: flex;
+    padding: 4%;
+    margin-left: 2%;
+}
+
+.container-1 .card {
+    width: 30rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 2%;
+    margin-bottom: 10px;
+}
+
+.card-2 {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 2%;
+    margin-bottom: 10px;
+}
+
+.card-3 {
+    margin-left: 7%;
+}
+
+.card-3 p {
+    color: #000000;
+    font-family: Poppins-SemiBold, Helvetica;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+button {
+    color: white;
+    background-color: green;
+    border-radius: 10px;
+    padding: 0px 20px;
+}
+
+.icon {
+    padding-top: 10px;
+    width: 9rem;
+}
+
+.container-2 {
+    display: flex;
+    padding-left: 4%;
+    margin-left: 2%;
+}
+
+.container-2 .card {
+    padding: 30px;
+    width: 30rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.container-2 .spec {
+    margin-left: 7%;
+
+}
+
+
+.container-2 .card-4 {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 30rem;
+    padding: 10px;
+}
+
+.container-3 {
+    display: flex;
+    padding-left: 4%;
+    margin-left: 2%;
+    margin-top: 2%;
+}
+
+.container-3 .card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-right: 10px;
+}
+
+.icon-2 {
+    padding: 10px;
+}

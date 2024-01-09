@@ -1,0 +1,49 @@
+.profile {
+    display: flex;
+    margin-left: 6%;
+    margin-right: 6%;
+}
+
+.profile-picture-container {
+    width: 250px;
+    height: 100px;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+.profile-picture {
+    width: 80%;
+    height: 80%;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.profile-name-days {
+    width: 20%;
+}
+
+.profile-name {
+    font-weight: 700;
+}
+
+.profile-days {
+    margin-top: -10px;
+    color: gray;
+}
+
+.profile-title-description {
+    margin-left: 20px;
+}
+
+.profile-title {
+    font-weight: 700;
+}
+
+.profile-description {
+    color: gray;
+}
+
+.review-heading {
+    display: flex;
+
+}

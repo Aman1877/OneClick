@@ -1,0 +1,27 @@
+.logo-oneclick {
+    color: #000000;
+    font-family: "Poppins-Bold", Helvetica;
+    font-size: 23.7px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    width: 117px;
+}
+
+.image-icon {
+    height: 11px;
+    left: 22px;
+    position: absolute;
+    top: 25px;
+    width: 109px;
+}
+
+.text-wrapper-1 {
+    color: #74cc7e;
+}
+
+.text-wrapper-2 {
+    color: #00818a;
+    font-size: 26.1px;
+}

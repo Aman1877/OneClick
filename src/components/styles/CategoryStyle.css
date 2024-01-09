@@ -1,0 +1,39 @@
+.category {
+    margin: 20px 10px;
+    width: 540px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 3px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    height: 230px;
+}
+
+.titleTag {
+    display: flex;
+}
+
+.title {
+    width: 80%;
+    font-weight: bold;
+
+}
+
+.title span {
+    display: flex;
+    margin-top: -20px;
+}
+
+.tag {
+    font-weight: bold;
+}
+
+.categoryNames {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.categoryNames p {
+    flex: 1 0 22%;
+    box-sizing: border-box;
+    margin: 5px;
+}

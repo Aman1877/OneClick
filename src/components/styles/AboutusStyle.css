@@ -1,0 +1,33 @@
+.main-container {
+    display: flex;
+    padding: 4%;
+    margin-left: 2%;
+    margin-left: 2%;
+    height: fit-content;
+}
+
+.main-container .card {
+    justify-content: end;
+    padding: 30px;
+    width: 30rem;
+    height: fit-content;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.main-div {
+    margin-left: 7%;
+    height: fit-content;
+}
+
+.main-div p {
+    color: #000000;
+    font-family: Poppins-SemiBold, Helvetica;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.award-container {
+    padding-left: 4%;
+    margin-left: 2%;
+    margin-left: 2%;
+}

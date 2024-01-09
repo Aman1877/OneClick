@@ -1,0 +1,42 @@
+.logo-oneclick {
+    color: #000000;
+    font-family: "Poppins-Bold", Helvetica;
+    font-size: 23.7px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    width: 117px;
+}
+
+.image-icon1 {
+    height: 12px;
+    left: 22px;
+    position: absolute;
+    top: 20px;
+    width: 109px;
+}
+
+.text-wrapper-3 {
+    color: #74cc7e;
+}
+
+.text-wrapper-4 {
+    color: #00818a;
+    font-size: 26.1px;
+}
+
+.footer-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.footer-links a {
+    text-decoration: none;
+    color: #000;
+}
+
+.footer-links li {
+    margin-bottom: 5px;
+}

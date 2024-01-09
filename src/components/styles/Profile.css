@@ -1,0 +1,16 @@
+.profileDetails>img {
+    border-radius: 50%;
+    width: 70px;
+    height: 65px;
+    margin: 20px 0px 0px 10px;
+}
+
+.profileDetails {
+    width: 25%;
+
+}
+
+.profileDetails>span {
+    margin: 80px 0px 0px 30px;
+
+}
